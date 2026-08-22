@@ -21,6 +21,9 @@ The dashboard is built to visualize four interconnected pillars of energy analyt
 3.  **Efficiency Decoupling:** Global energy intensity has improved by approximately 12.3% over the study period, suggesting that economic growth is beginning to decouple from raw energy consumption.
 4.  **Transition Velocity:** Renewable electricity generation has grown by 56% since 2000, outstripping fossil fuel growth (23%), yet fossil fuels still dominate the global baseload.
 
+## 💡 Recommendation
+Direct renewable incentives to emerging economies where investment yields the highest impact. Major industrial powers face structural bottlenecks rather than motivation issues, which require targeted grid decarbonization and baseload replacement instead of standard adoption subsidies.
+
 ## 🛠️ Technical Implementation
 *   **Language:** Python 3.x
 *   **Framework:** Streamlit (SaaS-style "Deep Forest" UI)
