@@ -1,4 +1,5 @@
 # Global Sustainable Energy & SDG 7 Progress Dashboard
+_A prescriptive analytics dashboard that tracks the global renewable-energy transition across 152 nations, it exposes the gap between the world's biggest emitters and their slowest clean-energy adoption._
 
 [[Visit the Dashboard by Clicking Here!]](https://life-expectancy-dashboard-lzo8leacaaruw42k5kfbkn.streamlit.app/)
 
