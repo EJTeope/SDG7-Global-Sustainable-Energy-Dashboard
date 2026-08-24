@@ -35,7 +35,7 @@ Direct renewable incentives to emerging economies where investment yields the hi
 *   **Deployment:** Streamlit Community Cloud.
 
 ## 📂 Repository Structure
-* `MiniProjectDashboard_2.py`: The primary Streamlit application code.
+* `app.py`: The primary Streamlit application code.
 * `cleaned_energy_data.csv`: The cleaned and pre-processed dataset (2000–2020).
 * `requirements.txt`: List of necessary Python libraries for deployment.
 * `URL.txt`: Direct link to the hosted web application.
