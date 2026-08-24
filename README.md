@@ -38,7 +38,6 @@ Direct renewable incentives to emerging economies where investment yields the hi
 * `app.py`: The primary Streamlit application code.
 * `cleaned_energy_data.csv`: The cleaned and pre-processed dataset (2000–2020).
 * `requirements.txt`: List of necessary Python libraries for deployment.
-* `URL.txt`: Direct link to the hosted web application.
 
 ## 📜 Data Attribution & Ethics
 **Data Source:** [Global Data on Sustainable Energy (2000-2020)](https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy) via Kaggle.
