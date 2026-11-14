@@ -2,6 +2,7 @@
 _A prescriptive analytics dashboard that tracks the global renewable-energy transition across 152 nations, it exposes the gap between the world's biggest emitters and their slowest clean-energy adoption._
 
 [![Streamlit Dashboard Preview](SDG7.png)]([https://sdg13-climate-health-risk-dashboard-lnfxhu4naa9cwzkopfmruv.streamlit.app/](https://sdg7-h9pqjrwapalhhckragwpf.streamlit.app/#key-strategic-insight))
+
 *Click the image above to open the live interactive dashboard.*
 
 ## 🧭 Project Context & Problem Statement
